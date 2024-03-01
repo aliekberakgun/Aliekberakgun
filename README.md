@@ -1,4 +1,4 @@
- [![MasterHead](https://novasta.com.tr/wp-content/uploads/2022nin-populer-programlama-dilleri-novasta-1.jpg)
+ ![MasterHead](https://novasta.com.tr/wp-content/uploads/2022nin-populer-programlama-dilleri-novasta-1.jpg)
 <h1 align="center">Hi 👋, I'm Ali Ekber Akgün</h1>
 <h3 align="center">I am 16 years old and I am improving myself in software development and cyber security and I will share the projects I have developed on github.</h3>
 
